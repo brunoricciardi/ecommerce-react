@@ -19,9 +19,9 @@ const Header = () => {
             <NavDropdown.Divider />
             <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
           </NavDropdown> */}
-          <FaShoppingCart/>
         </Nav>
       </Navbar.Collapse>
+      <FaShoppingCart/>
     </Container>
   </Navbar></div>
   )
