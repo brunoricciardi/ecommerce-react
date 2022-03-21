@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.svg {
+  height: 2rem;
+  width: 2rem;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -21,7 +21,7 @@ const Header = () => {
           </NavDropdown> */}
         </Nav>
       </Navbar.Collapse>
-      <FaShoppingCart/>
+      <FaShoppingCart className="svg"/>
     </Container>
   </Navbar></div>
   )
