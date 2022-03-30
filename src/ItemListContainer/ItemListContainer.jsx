@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 import { useEffect } from 'react'
 import ItemList from './ItemList'
+import './Item.css'
 
 
 const ItemListContainer = () => {
