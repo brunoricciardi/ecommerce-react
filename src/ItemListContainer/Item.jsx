@@ -1,6 +1,11 @@
 import React from 'react'
 import {Card, Button} from 'react-bootstrap'
 
+import { getFirestoreApp } from '../firebase/config'
+
+getFirestoreApp()
+
+
 const Item = ({libro}) => {
   return (
     <div>
